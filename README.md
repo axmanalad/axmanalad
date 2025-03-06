@@ -7,7 +7,7 @@ Hi! My name is Alexander Manalad. I am a rising software engineer with interests
 - Learning C++ currently.
 - <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
 ## Contact 📞
-- [LinkedIn](www.linkedin.com/in/axmanalad) 
+- <a href="https://www.linkedin.com/in/axmanalad/">LinkedIn</a>
 <!--
 **axmanalad/axmanalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
