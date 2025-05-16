@@ -1,10 +1,14 @@
 ## Introduction 👋
 Hi! My name is Alexander Manalad. I am a rising software engineer with interests in software development and computer games.
-## About Me 🤔
-- Programming languages with expertise in Python, Java, and C#. 🤖
+## About Me 😎
+- Programming languages with expertise in Python, C++, Java, and C#. 🤖
 - Currently looking for any experience to enhance my coding skills and resume. 👀
 - A 2nd year-sophomore student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
-- Learning C++ currently.
+- Learning 💻 Web-Development currently:
+  - ✔️ HTML/CSS
+  - 📈 JavaScript (WIP)
+  - ❌ React
+  - ❌ Database (TBD; I don't know what to pick..)
 - <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
 ## Contact 📞
 - <a href="https://www.linkedin.com/in/axmanalad/">LinkedIn</a>
