@@ -3,7 +3,7 @@ Hi! My name is Alexander Manalad. I am a rising software engineer with interests
 ## About Me 😎
 - Programming languages with expertise in Python, C++, Java, and C#. 🤖
 - Currently looking for any experience to enhance my coding skills and resume. 👀
-- A 2nd year-sophomore student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
+- A 3rd year-junior student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
 - Learning 💻 Web-Development currently:
   - ✔️ HTML/CSS
   - 📈 JavaScript (WIP)
