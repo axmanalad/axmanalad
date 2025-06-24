@@ -6,9 +6,10 @@ Hi! My name is Alexander Manalad. I am a rising software engineer with interests
 - A 3rd year-junior student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
 - Learning 💻 Web-Development currently:
   - ✔️ HTML/CSS
-  - 📈 JavaScript (WIP)
-  - ❌ React
-  - ❌ Database (TBD; I don't know what to pick..)
+  - ✔️ JavaScript
+  - 📈 Frontend: React (WIP)
+  - ❌ Backend: Node.js
+  - ❌ Database: SQL
 - <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
 ## Contact 📞
 - <a href="https://www.linkedin.com/in/axmanalad/">LinkedIn</a>
