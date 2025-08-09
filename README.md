@@ -8,8 +8,8 @@ Hi! My name is Alexander Manalad. I am a rising software engineer with interests
   - ✔️ HTML/CSS
   - ✔️ JavaScript
   - 📈 Frontend: React (WIP)
-  - ❌ Backend: Node.js
-  - ❌ Database: SQL
+  - 📈 Backend: Node.js (WIP)
+  - 📈 Database: SQL (PostgreSQL - WIP)
 - <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
 ## Contact 📞
 - <a href="https://www.linkedin.com/in/axmanalad/">LinkedIn</a>
