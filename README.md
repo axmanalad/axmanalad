@@ -1,16 +1,27 @@
 ## Introduction 👋
-Hi! My name is Alexander Manalad. I am a rising software engineer with interests in software development and computer games.
+Hi! My name is Alexander Manalad. I am a rising software engineer with interests in full stack development and software development.
+
 ## About Me 😎
-- Programming languages with expertise in Python, C++, Java, and C#. 🤖
-- Currently looking for any experience to enhance my coding skills and resume. 👀
+- Full Stack Technologies I use: React, Node.js, TypeScript/JavaScript, HTML/CSS, SQL (PostgreSQL)
+- Fundamental Languages I use: Python, C++, Java, C#
+- Currently looking for any experience or internships to enhance my coding skills. 👀
 - A 3rd year-junior student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
-- Learning 💻 Web-Development currently:
+- Building and Learning Full Stack Development currently:
   - ✔️ HTML/CSS
-  - ✔️ JavaScript
+  - ✔️ TypeScript/JavaScript
   - 📈 Frontend: React (WIP)
   - 📈 Backend: Node.js (WIP)
   - 📈 Database: SQL (PostgreSQL - WIP)
 - <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
+
+## Tech Interests: Why both Full Stack and Software Development? ⭐
+The duality in interests of software development and full stack development align towards its creativity and a deep curiousity about how technologies work from a low-end architecture to an end-user experience.
+- To architect holistically is by means a system design understanding; how backend performance correlates and impacts frontend responsiveness.
+- To bridge technical implementations with intuitive interfaces shows a pleasant user experience; ensures solutions are thoughtful and friendly at the end of the day.
+- To iterate and innovate the UMPIRE process from problem tackling to building multiple solutions not only slowly refines but represents a final product with growing value.
+
+These train of thoughts towards my tech interests are the reaons why I contribute to open source projects in relation to full stack and software development! ❤️‍🔥
+
 ## Contact 📞
 - <a href="https://www.linkedin.com/in/axmanalad/">LinkedIn</a>
 <!--
