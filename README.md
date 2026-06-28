@@ -5,14 +5,8 @@ Hi! My name is Alexander Manalad. I am a rising software engineer with interests
 - Full Stack Technologies I use: React, Node.js, TypeScript/JavaScript, HTML/CSS, SQL (PostgreSQL)
 - Fundamental Languages I use: Python, C++, Java, C#
 - Currently looking for any experience or internships to enhance my coding skills. 👀
-- A 3rd year-junior student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
-- Building and Learning Full Stack Development currently:
-  - ✔️ HTML/CSS
-  - ✔️ TypeScript/JavaScript
-  - 📈 Frontend: React (WIP)
-  - 📈 Backend: Node.js (WIP)
-  - 📈 Database: SQL (PostgreSQL - WIP)
-- <b>Fun Fact:</b> I love video games and is inspired by Minecraft. 🎮
+- A 4th-year senior student attending CSULB for Computer Science B.S. and graduating by 2027. 🎓
+- <b>Fun Fact:</b> I love video games! 🎮
 
 ## Tech Interests: Why both Full Stack and Software Development? ⭐
 The duality in interests of software development and full stack development align towards its creativity and a deep curiousity about how technologies work from a low-end architecture to an end-user experience.
